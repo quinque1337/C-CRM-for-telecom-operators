@@ -7,6 +7,7 @@ How to install:
 6. start source project and launch without debugging
 
 Screenshots:
+
 ![image](https://github.com/quinque1337/C-CRM-for-telecom-operators/assets/82111939/40e48715-07fd-42aa-9f1d-77a21a63ed1e)
 ![image](https://github.com/quinque1337/C-CRM-for-telecom-operators/assets/82111939/26208706-5961-48f0-be87-cd81d25bc8b3)
 ![image](https://github.com/quinque1337/C-CRM-for-telecom-operators/assets/82111939/8d737af9-f466-4074-b3aa-f56f03c1952f)
